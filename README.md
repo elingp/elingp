@@ -17,6 +17,4 @@ I’m a tech consultant with a background in computer science, passionate about 
 
 <br>
 
-![Eling’s GitHub stats](https://github-readme-stats.vercel.app/api?username=elingp&show=prs_merged,prs_merged_percentage&hide_rank=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elingp&layout=compact)
+![Eling’s GitHub stats](https://github-readme-stats.vercel.app/api?username=elingp&show=prs_merged,prs_merged_percentage&hide_rank=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elingp&layout=compact)
