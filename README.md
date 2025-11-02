@@ -6,7 +6,7 @@
 
 I’m a tech consultant with a background in computer science, passionate about AI and building practical solutions.
 
-- 🤖 My main interest is in AI/ML & NLP, especially text summarization for the Indonesian language.
+- 🤖 My main interest is in AI/ML & NLP, especially Indonesian text summarization.
 - 🎓 I studied Computer Science at [Universitas Brawijaya](https://filkom.ub.ac.id).
 - 💼 I interned as a Software Developer at [Blibli](https://www.blibli.com/).
 - ✨ I’m a proud alumnus of several programs, including:
@@ -17,4 +17,4 @@ I’m a tech consultant with a background in computer science, passionate about 
 
 <br>
 
-![Eling’s GitHub stats](https://github-readme-stats.vercel.app/api?username=elingp&show=prs_merged,prs_merged_percentage&hide_rank=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elingp&layout=compact&langs_count=12)
+![Eling’s GitHub stats](https://github-readme-stats.vercel.app/api?username=elingp&show=prs_merged,prs_merged_percentage&hide_rank=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elingp&layout=compact&langs_count=10)
